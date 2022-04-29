@@ -16,3 +16,16 @@ Curso: Álgebra Abstracta - CCOMP3-2
 Profesor: Jose Armando Chavez Alvarez (jachaveza@ucsp.edu.pe)
 
 Alumno: Rafael Alejandro Ramirez Quiroz (rafael.ramirez@ucsp.edu.pe)
+
+
+
+
+
+
+## Descifrado Afín sin claves
+
+Para descifrar un mensaje sin saber las claves 'a' ni 'b' siga las siguietnes instrucciones
+*  Descargar el archivo 'adivinador.cpp' y ejecútelo. Este archivo depende del encabezado 'cifrados.h' así que ya tiene que estar descargado y en la misma ubicación
+*  Este código no cuenta con ingreso por consola porque puede resultar tedioso ingresar textos largos, para modificar el mensaje modifique el código en la línea 34.
+*  Recuerde que las mismas advertencias aplican para este programa.
+*  Al ejecutarse el código este imprimirá en consola todos los posibles mensajes descifrados con el algoritmo afín. El mensaje de prueba que yá está en el código ya ha sido encontrado y las claves solo se imprimen en pantalla
