@@ -11,17 +11,6 @@ Instrucciones de ejecución:
 ADVERTENCIA: Dependiendo de donde se ejecute el código (VS2019, VSC, etc) los caracteres con tilde o la letra Ñ no se procesarán correctamente por no usar la codificación UTF-8, para ello se debe sustituir cualquier "Ñ" con el caracter "_" de la misma manera no acepta espacios en los mensajes para cifrarlos por lo que hay que escribir junto todo el texto.
 
 
-Curso: Álgebra Abstracta - CCOMP3-2
-
-Profesor: Jose Armando Chavez Alvarez (jachaveza@ucsp.edu.pe)
-
-Alumno: Rafael Alejandro Ramirez Quiroz (rafael.ramirez@ucsp.edu.pe)
-
-
-
-
-
-
 ## Descifrado Afín sin claves
 
 Para descifrar un mensaje sin saber las claves 'a' ni 'b' siga las siguietnes instrucciones
@@ -29,3 +18,15 @@ Para descifrar un mensaje sin saber las claves 'a' ni 'b' siga las siguietnes in
 *  Este código no cuenta con ingreso por consola porque puede resultar tedioso ingresar textos largos, para modificar el mensaje modifique el código en la línea 34.
 *  Recuerde que las mismas advertencias aplican para este programa.
 *  Al ejecutarse el código este imprimirá en consola todos los posibles mensajes descifrados con el algoritmo afín. El mensaje de prueba que yá está en el código ya ha sido encontrado y las claves solo se imprimen en pantalla
+
+
+
+
+
+Curso: Álgebra Abstracta - CCOMP3-2
+
+Profesor: Jose Armando Chavez Alvarez (jachaveza@ucsp.edu.pe)
+
+Alumno: Rafael Alejandro Ramirez Quiroz (rafael.ramirez@ucsp.edu.pe)
+
+
